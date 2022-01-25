@@ -1,1 +1,1 @@
-# Plugins-Espa-ol
+# Plugins-Espanol
