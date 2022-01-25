@@ -6,7 +6,7 @@
  * 
  * @website https://github.com/Farcrada/DiscordPlugins/
  * @source https://github.com/Farcrada/DiscordPlugins/blob/master/Double-click-to-edit/DoubleClickToEdit.plugin.js
- * @updateUrl https://raw.githubusercontent.com/Farcrada/DiscordPlugins/master/Double-click-to-edit/DoubleClickToEdit.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/EclipsesMC/Plugins-Espa-ol/main/2ClicksParaEditar.js
  * @donate paypal.me/eclipsesmc
  * @authorId 849089134210449458
  */
@@ -17,9 +17,8 @@
         name: "2 Clicks para editar",
         id: "DosClicksParaEditar",
         description: "Dale 2 clicks a tu mensaje para editar.",
-        version: "1.0.0",
+        version: "1.0.1",
         author: "_Eclipses_",
-        updateUrl: "https://raw.githubusercontent.com/Farcrada/DiscordPlugins/master/Double-click-to-edit/DoubleClickToEdit.plugin.js"
     }
 }
 
