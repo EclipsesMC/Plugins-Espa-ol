@@ -1,7 +1,7 @@
 /**
  * @name DosClicksParaEditar
  * @author _Eclipses_
- * @version 1.0.0
+ * @version 1.0.1
  * @description Dale 2 clicks a tu mensaje para editar.
  * 
  * @website https://github.com/Farcrada/DiscordPlugins/
